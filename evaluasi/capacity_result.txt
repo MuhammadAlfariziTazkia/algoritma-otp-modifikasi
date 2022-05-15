@@ -1,0 +1,33 @@
+
+*** CASE 10000 KARAKTER ***
+OTP ORIGINAL : 30000 B
+OTP MODIFIKASI : 20014 B
+
+--- EFICIENCY RESULT ---
+Eficiency (Bytes) : 9986 B
+Eficiency (Kilo Bytes) : 9.99 KB
+Eficiency (Mega Bytes) : 0.01 MB
+Eficiency (Percent) : 33.29 %
+
+
+*** CASE 100000 KARAKTER ***
+OTP ORIGINAL : 300000 B
+OTP MODIFIKASI : 200014 B
+
+--- EFICIENCY RESULT ---
+Eficiency (Bytes) : 99986 B
+Eficiency (Kilo Bytes) : 99.99 KB
+Eficiency (Mega Bytes) : 0.1 MB
+Eficiency (Percent) : 33.33 %
+
+
+*** CASE 1000000 KARAKTER ***
+OTP ORIGINAL : 3000000 B
+OTP MODIFIKASI : 2000014 B
+
+--- EFICIENCY RESULT ---
+Eficiency (Bytes) : 999986 B
+Eficiency (Kilo Bytes) : 999.99 KB
+Eficiency (Mega Bytes) : 1.0 MB
+Eficiency (Percent) : 33.33 %
+

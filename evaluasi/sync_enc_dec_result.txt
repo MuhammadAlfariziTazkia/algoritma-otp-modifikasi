@@ -1,0 +1,128 @@
+CASE 1
+----------------
+Plaintext (User Input)     : kajsdnkajbdkasdbasjkbdasjdhjvVHJGVHJGVHJGVHGVHJGVHJGVhjgvhgJGVHJVGHJGVHJgvhgvhjgvhjgvhgv
+Plaintext (Decrypt Result) : kajsdnkajbdkasdbasjkbdasjdhjvVHJGVHJGVHJGVHGVHJGVHJGVhjgvhgJGVHJVGHJGVHJgvhgvhjgvhjgvhgv
+Banyak perbedaan karakter = 0 dari 88
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 2
+----------------
+Plaintext (User Input)     : kajsdnkajbdkasdbasjkbdasjdhjvVHJGVHJGVHJGVHGVHJGVHJGVhjgvhgJGVHJVGHJGVHJgvhgvhjgvhjgvhgv
+Plaintext (Decrypt Result) : kajsdnkajbdkasdbasjkbdasjdhjvVHJGVHJGVHJGVHGVHJGVHJGVhjgvhgJGVHJVGHJGVHJgvhgvhjgvhjgvhgv
+Banyak perbedaan karakter = 0 dari 88
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 3
+----------------
+Plaintext (User Input)     : kajsdnkajbdkasdbasjkbdasjdhjvVHJGVHJGVHJGVHGVHJGVHJGVhjgvhgJGVHJVGHJGVHJgvhgvhjgvhjgvhgv
+Plaintext (Decrypt Result) : kajsdnkajbdkasdbasjkbdasjdhjvVHJGVHJGVHJGVHGVHJGVHJGVhjgvhgJGVHJVGHJGVHJgvhgvhjgvhjgvhgv
+Banyak perbedaan karakter = 0 dari 88
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 4
+----------------
+Plaintext (User Input)     : kajsdnkajbdkasdbasjkbdasjdhjvVHJGVHJGVHJGVHGVHJGVHJGVhjgvhgJGVHJVGHJGVHJgvhgvhjgvhjgvhgv
+Plaintext (Decrypt Result) : kajsdnkajbdkasdbasjkbdasjdhjvVHJGVHJGVHJGVHGVHJGVHJGVhjgvhgJGVHJVGHJGVHJgvhgvhjgvhjgvhgv
+Banyak perbedaan karakter = 0 dari 88
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 5
+----------------
+Plaintext (User Input)     : 8923749872348972349827349827429817293719617253671236178236
+Plaintext (Decrypt Result) : 8923749872348972349827349827429817293719617253671236178236
+Banyak perbedaan karakter = 0 dari 58
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 6
+----------------
+Plaintext (User Input)     : 8923749872348972349827349827429817293719617253671236178236
+Plaintext (Decrypt Result) : 8923749872348972349827349827429817293719617253671236178236
+Banyak perbedaan karakter = 0 dari 58
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 7
+----------------
+Plaintext (User Input)     : 8923749872348972349827349827429817293719617253671236178236
+Plaintext (Decrypt Result) : 8923749872348972349827349827429817293719617253671236178236
+Banyak perbedaan karakter = 0 dari 58
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 8
+----------------
+Plaintext (User Input)     : 8923749872348972349827349827429817293719617253671236178236
+Plaintext (Decrypt Result) : 8923749872348972349827349827429817293719617253671236178236
+Banyak perbedaan karakter = 0 dari 58
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 9
+----------------
+Plaintext (User Input)     : (*&(*&&*^^&*^&^&*^(*&^&*^^&%^$^%$%$%$^%$^%$%^$^%$^%$%$&>:><?<>?<?><?}{}}{}}:<?:<>*&^*(^*&^*&^*&^%$^%$%&$&^$
+Plaintext (Decrypt Result) : (*&(*&&*^^&*^&^&*^(*&^&*^^&%^$^%$%$%$^%$^%$%^$^%$^%$%$&>:><?<>?<?><?}{}}{}}:<?:<>*&^*(^*&^*&^*&^%$^%$%&$&^$
+Banyak perbedaan karakter = 0 dari 107
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 10
+----------------
+Plaintext (User Input)     : (*&(*&&*^^&*^&^&*^(*&^&*^^&%^$^%$%$%$^%$^%$%^$^%$^%$%$&>:><?<>?<?><?}{}}{}}:<?:<>*&^*(^*&^*&^*&^%$^%$%&$&^$
+Plaintext (Decrypt Result) : (*&(*&&*^^&*^&^&*^(*&^&*^^&%^$^%$%$%$^%$^%$%^$^%$^%$%$&>:><?<>?<?><?}{}}{}}:<?:<>*&^*(^*&^*&^*&^%$^%$%&$&^$
+Banyak perbedaan karakter = 0 dari 107
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 11
+----------------
+Plaintext (User Input)     : (*&(*&&*^^&*^&^&*^(*&^&*^^&%^$^%$%$%$^%$^%$%^$^%$^%$%$&>:><?<>?<?><?}{}}{}}:<?:<>*&^*(^*&^*&^*&^%$^%$%&$&^$
+Plaintext (Decrypt Result) : (*&(*&&*^^&*^&^&*^(*&^&*^^&%^$^%$%$%$^%$^%$%^$^%$^%$%$&>:><?<>?<?><?}{}}{}}:<?:<>*&^*(^*&^*&^*&^%$^%$%&$&^$
+Banyak perbedaan karakter = 0 dari 107
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 12
+----------------
+Plaintext (User Input)     : (*&(*&&*^^&*^&^&*^(*&^&*^^&%^$^%$%$%$^%$^%$%^$^%$^%$%$&>:><?<>?<?><?}{}}{}}:<?:<>*&^*(^*&^*&^*&^%$^%$%&$&^$
+Plaintext (Decrypt Result) : (*&(*&&*^^&*^&^&*^(*&^&*^^&%^$^%$%$%$^%$^%$%^$^%$^%$%$&>:><?<>?<?><?}{}}{}}:<?:<>*&^*(^*&^*&^*&^%$^%$%&$&^$
+Banyak perbedaan karakter = 0 dari 107
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 13
+----------------
+Plaintext (User Input)     : ajshdkjladhsjkashJKHJKHKJHKJH89798798798(*&(&*(&(JBHJKBJBkjbjkbjkasbdhjg()*&*&(*&9789jshakjhdkjsbgkjbdf2309420394)(*j&^jhjhjvjhgvh
+Plaintext (Decrypt Result) : ajshdkjladhsjkashJKHJKHKJHKJH89798798798(*&(&*(&(JBHJKBJBkjbjkbjkasbdhjg()*&*&(*&9789jshakjhdkjsbgkjbdf2309420394)(*j&^jhjhjvjhgvh
+Banyak perbedaan karakter = 0 dari 130
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 14
+----------------
+Plaintext (User Input)     : ajshdkjladhsjkashJKHJKHKJHKJH89798798798(*&(&*(&(JBHJKBJBkjbjkbjkasbdhjg()*&*&(*&9789jshakjhdkjsbgkjbdf2309420394)(*j&^jhjhjvjhgvh
+Plaintext (Decrypt Result) : ajshdkjladhsjkashJKHJKHKJHKJH89798798798(*&(&*(&(JBHJKBJBkjbjkbjkasbdhjg()*&*&(*&9789jshakjhdkjsbgkjbdf2309420394)(*j&^jhjhjvjhgvh
+Banyak perbedaan karakter = 0 dari 130
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 15
+----------------
+Plaintext (User Input)     : ajshdkjladhsjkashJKHJKHKJHKJH89798798798(*&(&*(&(JBHJKBJBkjbjkbjkasbdhjg()*&*&(*&9789jshakjhdkjsbgkjbdf2309420394)(*j&^jhjhjvjhgvh
+Plaintext (Decrypt Result) : ajshdkjladhsjkashJKHJKHKJHKJH89798798798(*&(&*(&(JBHJKBJBkjbjkbjkasbdhjg()*&*&(*&9789jshakjhdkjsbgkjbdf2309420394)(*j&^jhjhjvjhgvh
+Banyak perbedaan karakter = 0 dari 130
+TINGKAT KESESUAIAN    : 100.0%
+
+
+CASE 16
+----------------
+Plaintext (User Input)     : ajshdkjladhsjkashJKHJKHKJHKJH89798798798(*&(&*(&(JBHJKBJBkjbjkbjkasbdhjg()*&*&(*&9789jshakjhdkjsbgkjbdf2309420394)(*j&^jhjhjvjhgvh
+Plaintext (Decrypt Result) : ajshdkjladhsjkashJKHJKHKJHKJH89798798798(*&(&*(&(JBHJKBJBkjbjkbjkasbdhjg()*&*&(*&9789jshakjhdkjsbgkjbdf2309420394)(*j&^jhjhjvjhgvh
+Banyak perbedaan karakter = 0 dari 130
+TINGKAT KESESUAIAN    : 100.0%
+
+
