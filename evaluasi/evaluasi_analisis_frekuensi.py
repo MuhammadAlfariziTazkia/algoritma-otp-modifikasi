@@ -27,14 +27,26 @@ data_all = [
     }
 ]
 
+n = input("Input N for N Top Character Frequencies : ")
+
 for data in data_all:
     data["ciphertext"] = enkripsi(data["plaintext"], data["katakunci"])
-    top_ciphertext_char = list((get_character_and_frequency(data["ciphertext"].lower())).keys())
-    top_plaintext_char = list((get_character_and_frequency(data["plaintext"].lower())).keys())
+    top_ciphertext_char = list((get_character_and_frequency(data["ciphertext"])).keys())
+    top_plaintext_char = list((get_character_and_frequency(data["plaintext"])).keys())
     data["percobaan"] = data["ciphertext"]
 
     for index in range(10):
         data["percobaan"] = data["percobaan"].replace(top_ciphertext_char[index], top_plaintext_char[index])
+
+    num_similiar_char = 0
+
+    total_char = len(data["plaintext"])
+    for index in range(total_char):
+        if index == len(data["percobaan"]):
+            break
+        if data["plaintext"][index] == data["percobaan"][index]:
+            num_similiar_char += 1
+    data["similiarity persentage"] = "{} %".format(round((num_similiar_char/total_char)*100, 2))
 
 report_string = ""
 for data in data_all:
@@ -42,5 +54,5 @@ for data in data_all:
         report_string += "\n{} : {}".format(attr.upper(), data[attr])
     report_string += "\n"
 
-writeTxtFile(report_string, "analisis_frekuensi_result")
+writeTxtFile(report_string, "analisis_frekuensi_result.txt")
 
