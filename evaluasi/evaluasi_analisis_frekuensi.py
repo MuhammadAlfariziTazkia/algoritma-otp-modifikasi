@@ -35,7 +35,7 @@ for data in data_all:
     top_plaintext_char = list((get_character_and_frequency(data["plaintext"])).keys())
     data["percobaan"] = data["ciphertext"]
 
-    for index in range(10):
+    for index in range(n):
         data["percobaan"] = data["percobaan"].replace(top_ciphertext_char[index], top_plaintext_char[index])
 
     num_similiar_char = 0
